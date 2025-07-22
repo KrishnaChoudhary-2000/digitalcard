@@ -1,0 +1,6 @@
+{
+  "name": "Digital Card Admin Dashboard AlphB",
+  "description": "An admin dashboard to manage and edit all elements of a digital NFC landing card. Features real-time editing and a live preview of the card, allowing users to customize profile info, contact details, social links, and styling.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

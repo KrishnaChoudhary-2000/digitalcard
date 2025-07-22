@@ -1,0 +1,10 @@
+{
+  "name": "digital-card-dashboard-alphb",
+  "version": "1.0.0",
+  "description": "An admin dashboard to manage and edit all elements of a digital NFC landing card.",
+  "scripts": {
+    "start": "echo \"This is a build-less project. Open index.html in your browser.\""
+  },
+  "author": "",
+  "license": "ISC"
+}
